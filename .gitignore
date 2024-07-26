@@ -1,0 +1,9 @@
+# cache
+__pycache__
+*checkpoint*
+.DS_Store
+env
+
+# virtual env 
+venv
+.venv
